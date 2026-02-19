@@ -2,17 +2,20 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>YOGESHKUMAR S</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>Full Stack Developer | MERN • Javascript• Flutter</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+   I’m a first-year B.Tech IT student at SRM Institute of Science and Technology, currently learning and building practical web applications using JavaScript and Node.js.
+
+I enjoy learning by working on real projects, focusing on strengthening my development fundamentals and backend concepts. Recently, I’ve been working on personal projects and improving my portfolio as part of my learning journey.
+
+I’m interested in growing my skills through hands-on experience, internships, and collaborative tech projects.
   </p>
 
   <p>
