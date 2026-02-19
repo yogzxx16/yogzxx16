@@ -5,7 +5,7 @@
   Hi, I'm <strong>YOGESHKUMAR S</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Javascript• Flutter</h3>
+<h3>Full Stack Developer | MERN • Javascript• Gen AI</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -28,15 +28,11 @@ I’m interested in growing my skills through hands-on experience, internships, 
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://github.com/yogzxx16">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/yogeshkumar-s-tech">
+  <a href="https://www.linkedin.com/in/yogeshkumar-s-tech">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
