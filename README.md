@@ -5,7 +5,7 @@
   Hi, I'm <strong>YOGESHKUMAR S</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Javascript• Gen AI</h3>
+<h3> Learning Full Stack Development | MERN • Javascript• Gen AI</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -53,7 +53,7 @@ I’m interested in growing my skills through hands-on experience, internships, 
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,c++" />
 <br/><br/>
 
 </td>
