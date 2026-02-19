@@ -91,7 +91,7 @@ I’m interested in growing my skills through hands-on experience, internships, 
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=yogzxx16&theme=nightowl&hide_border=true" alt="Streak" />
 </div>
 
 ---
