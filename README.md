@@ -5,17 +5,24 @@
   Hi, I'm <strong>YOGESHKUMAR S</strong>
 </h1>
 
-<h3> Exploring Full Stack Development | MERN • Javascript• Gen AI</h3>
+<h3> Full Stack MERN Developer | Gen AI • Web Development • Product Building</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-   I’m a first-year B.Tech IT student at SRM Institute of Science and Technology, currently learning and building practical web applications using JavaScript and Node.js.
+I'm a first-year B.Tech Information Technology student at SRM Institute of Science and Technology, Ramapuram.
 
-I enjoy learning by working on real projects, focusing on strengthening my development fundamentals and backend concepts. Recently, I’ve been working on personal projects and improving my portfolio as part of my learning journey.
+I build full-stack web applications using React, Node.js, Express, MongoDB, Firebase, and SQL, with a growing focus on AI-powered products, automation, and real-world problem solving.
 
-I’m interested in growing my skills through hands-on experience, internships, and collaborative tech projects.
+🚀 Highlights
+- Google Student Ambassador (GSA) 2026
+- Full Stack Web Development Intern @ Future Interns , @ DecodeLabs
+- DSC Technical Team Member (Web Development)
+- 7+ Hackathons Participated
+- 5+ Live Projects Built
+
+I'm passionate about turning ideas into practical products through rapid prototyping, collaboration, and continuous learning.
   </p>
 
   <p>
